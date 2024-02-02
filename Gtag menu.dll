@@ -1,4 +1,4 @@
-MZ����@��� �!�L�!This program cannot be run in DOS mode.  
+\MZ����@��� �!�L�!This program cannot be run in DOS mode.  
 $PEL -= new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
 
 {[MODS section
@@ -64,7 +64,7 @@ ID section
 
 
 {"Name menu}
-
+{"LUCY}
 
 
 
