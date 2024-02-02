@@ -10,15 +10,15 @@ ghostmonkey
 TAG GUN 
 KICKGUN 
 FLY ]} {MODS}]}
-{[Button1 ==True ]} 
-{[Button2 ==True ]} 
-{[Button3 ==True ]} 
-{[Button4 ==True ]} 
-{[Button5 ==True ]} 
-{[Button6 ==True ]} 
-{[Button7 ==True ]} 
-{[Button8 ==True ]}
-{[Button9 ==True ]}
+{[Button1 ==True ]}{speedboost}
+{[Button2 ==True ]}{FLY} 
+{[Button3 ==True ]}{KICKGUN} 
+{[Button4 ==True ]}{TPGUN} 
+{[Button5 ==True ]}{NOCILP} 
+{[Button6 ==True ]}{Platform} 
+{[Button7 ==True ]}{ghosmonkey}
+{[Button8 ==True ]}{ban gun}
+{[Button9 ==True ]}{TAG GUN}
 
 {[hz section
 hz60 ==True
@@ -30,8 +30,6 @@ hz100 ==True
 hz1000 ==True
 ->back
 ]}
-
-
 
 
 
@@ -57,3 +55,4 @@ IP section
 
 ID section
 [show ID]
+60
