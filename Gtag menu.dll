@@ -1,0 +1,35 @@
+MZ����@��� �!�L�!This program cannot be run in DOS mode.  
+$PEL -=
+{[speedboost
+ban gun
+NOCILP 
+platform
+TP GUN
+ghostmonkey
+TAG GUN 
+KICKGUN 
+FLY ]} {MODS}
+{[Button1 ==True ]} 
+{[Button2 ==True ]} 
+{[Button3 ==True ]} 
+{[Button4 ==True ]} 
+{[Button5 ==True ]} 
+{[Button6 ==True ]} 
+{[Button7 ==True ]} 
+{[Button8 ==True ]}
+{[Button9 ==True ]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
