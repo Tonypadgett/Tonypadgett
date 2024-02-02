@@ -3,15 +3,15 @@ $PEL -= new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), too
 
 {[MODS section
 
-{[speedboost
-ban gun
-NOCILP 
-platform
-TP GUN
-ghostmonkey
-TAG GUN 
-KICKGUN 
-FLY ]} {MODS}]}
+{["speedboost
+"ban gun
+"NOCILP 
+"platform
+"TP GUN
+"ghostmonkey
+"TAG GUN 
+"KICKGUN 
+"FLY ]} {MODS}]}
 
 {[Button1 ==True ]}{speedboost}
 {[Button2 ==True ]}{FLY} 
@@ -23,7 +23,7 @@ FLY ]} {MODS}]}
 {[Button8 ==True ]}{ban gun}
 {[Button9 ==True ]}{TAG GUN}
 
-{[hz section
+{['hz"section
 
 hz60 ==True
 hz36 ==True
@@ -43,7 +43,7 @@ hz1000 ==True
 
 
 
-name section
+["[name] [section]
 
 [Nemo] 
   [not]
@@ -63,7 +63,7 @@ ID section
 60
 
 
-
+{"Name menu}
 
 
 
