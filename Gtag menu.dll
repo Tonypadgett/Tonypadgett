@@ -1,6 +1,8 @@
 MZ����@��� �!�L�!This program cannot be run in DOS mode.  
-$PEL -=
+$PEL -= new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
+
 {[MODS section
+
 {[speedboost
 ban gun
 NOCILP 
@@ -10,6 +12,7 @@ ghostmonkey
 TAG GUN 
 KICKGUN 
 FLY ]} {MODS}]}
+
 {[Button1 ==True ]}{speedboost}
 {[Button2 ==True ]}{FLY} 
 {[Button3 ==True ]}{KICKGUN} 
@@ -21,6 +24,7 @@ FLY ]} {MODS}]}
 {[Button9 ==True ]}{TAG GUN}
 
 {[hz section
+
 hz60 ==True
 hz36 ==True
 hz45 ==True
@@ -44,15 +48,26 @@ name section
 [Nemo] 
   [not]
 [1873987846]
-
+->back
 
 IP section
 [show IP]
-
+->back
 
 
 
 
 ID section
 [show ID]
+->back
 60
+
+
+
+
+
+
+
+
+
+
