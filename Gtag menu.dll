@@ -1,5 +1,6 @@
 MZ����@��� �!�L�!This program cannot be run in DOS mode.  
 $PEL -=
+{[MODS section
 {[speedboost
 ban gun
 NOCILP 
@@ -8,7 +9,7 @@ TP GUN
 ghostmonkey
 TAG GUN 
 KICKGUN 
-FLY ]} {MODS}
+FLY ]} {MODS}]}
 {[Button1 ==True ]} 
 {[Button2 ==True ]} 
 {[Button3 ==True ]} 
@@ -19,6 +20,16 @@ FLY ]} {MODS}
 {[Button8 ==True ]}
 {[Button9 ==True ]}
 
+{[hz section
+hz60 ==True
+hz36 ==True
+hz45 ==True
+hz90 ==True
+hz25 ==True
+hz100 ==True
+hz1000 ==True
+->back
+]}
 
 
 
@@ -30,6 +41,19 @@ FLY ]} {MODS}
 
 
 
+name section
+
+[Nemo] 
+  [not]
+[1873987846]
+
+
+IP section
+[show IP]
 
 
 
+
+
+ID section
+[show ID]
