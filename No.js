@@ -12,5 +12,5 @@
   
   <script src="script.js"></script>
 </body>
-
+</script>
 </html>
