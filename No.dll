@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  Press, Y to open the menu
+  Press,button Y to open the menu
 
 <head>
   <meta charset="utf-8">
@@ -14,7 +14,7 @@
   <script src="script.dll"></script>
 </script>
 
-
+Fly speed10 %
 </crashGUN>
 </crash>
 </leftplatforms>
