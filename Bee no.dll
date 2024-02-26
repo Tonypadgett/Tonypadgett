@@ -1,0 +1,71 @@
+MZ����@��� �!�L�!This program cannot be run in DOS mode.  
+$PEL 
+{mod.meun}
+(fly)
+(speechless)
+(noclip)
+(tag gun)
+(crash gun)
+(bee)
+(RGB)
+(TAG ALL)
+(36HZ)
+(90HZ)
+(piatforms)
+()
+()
+()
+()
+()
+()
+()
+new ButtonInfo { buttonText = "Name", method =(fly) => Namespace.mod(fly), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(noclip) => Namespace.mod(noclip), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(tag gun) => Namespace.mod(tag gun), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(speechlehess) => Namespace.mod(speechless), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(crash gun) => Namespace.mod(crash gun), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(bee) => Namespace.mod(bee), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(TFLY) => Namespace.mod(TFLY), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(RGB) => Namespace.mod(RGB), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(36HZ) => Namespace.mod(36HZ), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(90HZ) => Namespace.mod(90HZ), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(TAG ALL) => Namespace.mod(TAG ALL), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(platforms) => Namespace.mod(platforms), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
+
+
+
+
+
+
+
+
+
+
+
+
+  
