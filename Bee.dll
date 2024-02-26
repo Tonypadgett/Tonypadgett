@@ -8,7 +8,7 @@ speechless
 noclip
 tag gun
 crash gun
-
+bee
 
 new ButtonInfo { buttonText = "Name", method =(fly) => Namespace.mod(fly), tooltip = "Description" },
 
@@ -20,8 +20,13 @@ new ButtonInfo { buttonText = "Name", method =(speechlehess) => Namespace.mod(sp
 
 new ButtonInfo { buttonText = "Name", method =(crash gun) => Namespace.mod(crash gun), tooltip = "Description" },
 
+new ButtonInfo { buttonText = "Name", method =(bee) => Namespace.mod(bee), tooltip = "Description" },
+
 new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
 
+new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
 
 
 
