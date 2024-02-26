@@ -6,4 +6,4 @@ $PEL
 
 new ButtonInfo { buttonText = "Name", method =(fly) => Namespace.mod(fly), tooltip = "Description" },
 
-new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
+new ButtonInfo { buttonText = "Name", method =(no) => Namespace.mod(), tooltip = "Description" },
