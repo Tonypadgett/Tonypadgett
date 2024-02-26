@@ -1,0 +1,29 @@
+MZ����@��� �!�L�!This program cannot be run in DOS mode.  
+$PEL 
+
+
+{mod.meun}
+fly
+speechless
+noclip
+tag gun
+crash gun
+
+
+new ButtonInfo { buttonText = "Name", method =(fly) => Namespace.mod(fly), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(noclip) => Namespace.mod(noclip), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(tag gun) => Namespace.mod(tag gun), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(speechlehess) => Namespace.mod(speechless), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =(crash gun) => Namespace.mod(crash gun), tooltip = "Description" },
+
+new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
+
+
+
+
+
+
