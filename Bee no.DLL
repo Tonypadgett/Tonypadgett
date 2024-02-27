@@ -13,7 +13,7 @@ $PEL
 (90HZ)
 (piatforms)
 (RGBpiatforms)
-(FOV)
+(FOV150)
 ()
 ()
 ()
@@ -45,7 +45,7 @@ new ButtonInfo { buttonText = "Name", method =(platforms) => Namespace.mod(platf
 
 new ButtonInfo { buttonText = "Name", method =(RGBpiatforms) => Namespace.mod(), tooltip = "Description" },
 
-new ButtonInfo { buttonText = "Name", method =(FOV) => Namespace.mod(), tooltip = "Description" },
+new ButtonInfo { buttonText = "Name", method =(FOV150) => Namespace.mod(), tooltip = "Description" },
 
 new ButtonInfo { buttonText = "Name", method =() => Namespace.mod(), tooltip = "Description" },
 
